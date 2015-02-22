@@ -1,4 +1,4 @@
-var gulp = require('gulp-name');
+var gulp = require('gulp');
 var browserify = require('gulp-browserify');
 var concat = require('gulp-concat');
 
